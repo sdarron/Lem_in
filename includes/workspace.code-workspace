@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "check_lemin",
+			"path": ".."
+		},
+		{
+			"name": "maps_for_viz",
+			"path": "../../maps_for_viz"
+		}
+	],
+	"settings": {}
+}
